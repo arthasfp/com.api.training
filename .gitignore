@@ -1,0 +1,19 @@
+## Artifacts produced by maven
+*.exec
+**/target/
+
+## IntelliJ Idea files
+.idea/
+*.ipr
+*.iml
+*.iws
+
+## Eclipse
+.classpath
+.project
+.settings
+
+*.allure/
+*allure-results/
+*logs/
+*jgiven-reports/
